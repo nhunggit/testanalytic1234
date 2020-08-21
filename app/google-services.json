@@ -1,0 +1,180 @@
+{
+  "project_info": {
+    "project_number": "13378579935",
+    "firebase_url": "https://music-29da2.firebaseio.com",
+    "project_id": "music-29da2",
+    "storage_bucket": "music-29da2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13378579935:android:3d937af7d5e9626c70e86a",
+        "android_client_info": {
+          "package_name": "com.bkav.music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13378579935-9vgai28vh2a72gvul5mva95nfhtuq0od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxvNshdO_BR75QswXUgB8_1XtxY2Vbk0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13378579935-9vgai28vh2a72gvul5mva95nfhtuq0od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13378579935:android:50b1387f1086a3d270e86a",
+        "android_client_info": {
+          "package_name": "com.bkav.newMusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13378579935-uk5b5kb4mpuhqqubnpi6f90m9nt93f9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bkav.newMusic",
+            "certificate_hash": "73c575a129727a80d63ee7b0303b4a4e2599c553"
+          }
+        },
+        {
+          "client_id": "13378579935-9vgai28vh2a72gvul5mva95nfhtuq0od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxvNshdO_BR75QswXUgB8_1XtxY2Vbk0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13378579935-9vgai28vh2a72gvul5mva95nfhtuq0od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13378579935:android:30db2c7d6aff628770e86a",
+        "android_client_info": {
+          "package_name": "com.bkav.newmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13378579935-9vgai28vh2a72gvul5mva95nfhtuq0od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxvNshdO_BR75QswXUgB8_1XtxY2Vbk0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13378579935-9vgai28vh2a72gvul5mva95nfhtuq0od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13378579935:android:fec99ccd44ce871570e86a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13378579935-6f41oilvll2klu8ondd56a4n1qscpmds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "9496b217764ff033c9f0e4ca24246988aac1e5ce"
+          }
+        },
+        {
+          "client_id": "13378579935-9vgai28vh2a72gvul5mva95nfhtuq0od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxvNshdO_BR75QswXUgB8_1XtxY2Vbk0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13378579935-9vgai28vh2a72gvul5mva95nfhtuq0od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13378579935:android:96f87cb0b7934ced70e86a",
+        "android_client_info": {
+          "package_name": "com.example.testanalytic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13378579935-sgtl386ons64aq88pbnecpjpn744kkuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testanalytic",
+            "certificate_hash": "9496b217764ff033c9f0e4ca24246988aac1e5ce"
+          }
+        },
+        {
+          "client_id": "13378579935-9vgai28vh2a72gvul5mva95nfhtuq0od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxvNshdO_BR75QswXUgB8_1XtxY2Vbk0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13378579935-9vgai28vh2a72gvul5mva95nfhtuq0od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
